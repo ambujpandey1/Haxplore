@@ -92,5 +92,5 @@ SynapseCode meets these needs by integrating advanced AI capabilities with robus
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Abhi13-02/Haxplore.git
+   https://github.com/ambujpandey1/Haxplore.git
    cd Haxplore
